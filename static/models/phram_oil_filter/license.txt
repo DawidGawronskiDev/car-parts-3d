@@ -1,0 +1,11 @@
+Model Information:
+* title:	Phram oil filter
+* source:	https://sketchfab.com/3d-models/phram-oil-filter-e8d79955943144baaa10336ac1e07624
+* author:	Johnathon Goswick (https://sketchfab.com/goswick3)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Phram oil filter" (https://sketchfab.com/3d-models/phram-oil-filter-e8d79955943144baaa10336ac1e07624) by Johnathon Goswick (https://sketchfab.com/goswick3) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
